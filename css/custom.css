@@ -1,3 +1,7 @@
 .logo{    
     height: 90px;
 }
+
+img.rounded{
+    border-radius: 15;
+}
